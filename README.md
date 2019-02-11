@@ -76,7 +76,9 @@
     ```
     
 # References:
-1. PWA Training: https://developers.google.com/web/ilt/pwa/
-2. Lab for push notifications: https://developers.google.com/web/ilt/pwa/lab-integrating-web-push
-3. Another tutorial to help kick off with the react push notifications https://medium.com/@jasminejacquelin/integrating-push-notifications-in-your-node-react-web-app-4e8d8190a52c
-4. Some more about service workers: https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
+1. Google Presentation: https://developers.google.com/web/progressive-web-apps
+    * Check the youtube video there: https://youtu.be/m-sCdS0sQO8
+2. PWA Training: https://developers.google.com/web/ilt/pwa/
+3. Lab for push notifications: https://developers.google.com/web/ilt/pwa/lab-integrating-web-push
+4. Another tutorial to help kick off with the react push notifications https://medium.com/@jasminejacquelin/integrating-push-notifications-in-your-node-react-web-app-4e8d8190a52c
+5. Some more about service workers: https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
